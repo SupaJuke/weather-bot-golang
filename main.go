@@ -1,4 +1,4 @@
-package weatherbotgo
+package weatherbot
 
 import (
 	"flag"
